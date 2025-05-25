@@ -1,0 +1,4 @@
+node_modules/
+interaction.sqlite
+.env
+*.log
