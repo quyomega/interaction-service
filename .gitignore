@@ -1,4 +1,23 @@
+# Node.js
 node_modules/
-interaction.sqlite
 .env
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+dist/
+build/
+
+# DB và data
+*.sqlite
+*.sqlite3
+*.db
 *.log
+
+# hệ điều hành
+.DS_Store
+Thumbs.db
+
+# test hoặc local config
+*.local
+*.env.local
+.vscode/
